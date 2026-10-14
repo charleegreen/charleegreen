@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello There!
+
+About Me
+My name is Charlee Green, and I am a senior at Western Colorado University. I am scheduled to graduate in May 2027 with a B.S. in Computer Science and a B.A. in Economics. I have an emphasis in Machine Learning, and am getting two minors in Data Science and Data Analytics. I am also completing a Certificate in Applied Statistics. I am pursuing a career in Data Science, because I have always been pulled to numbers. I love that we can find patterns in our world with statistics that can better people's lives. 
+I am currently in courses teaching me about Computer Vision, and Software Engineering.
 
 <!--
 **charleegreen/charleegreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
